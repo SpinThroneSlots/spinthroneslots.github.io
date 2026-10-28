@@ -1,0 +1,14 @@
+{
+  "messages": [
+    {
+      "id": "update_2026_10_28",
+      "title": "Update",
+      "body": "Thanks for updating! Enjoy 50k coins and 20 free spins for Neon Nights!",
+      "start_date": "2026-10-28",
+      "coins": 50000,
+      "free_spins": 20,
+      "spins_machine": "neon_nights",
+      "spins_bet": 1000
+    }
+  ]
+}
