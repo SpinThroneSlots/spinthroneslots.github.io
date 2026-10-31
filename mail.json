@@ -1,10 +1,29 @@
 {
   "messages": [
     {
+      "id": "closed_beta_welcome",
+      "title": "Welcome to the Closed Beta!",
+      "body": "Thank you for testing Spin Throne Slots! Here are 100,000 coins to start your reign, and 20 free spins on Neon Nights are waiting in your mail too. Know someone with an Android phone who'd enjoy it? Invite them to join the beta: they can email spinthroneslots@outlook.com and we'll add them. Please keep the game installed for the full 14 days and tell us what you think!",
+      "start_date": "2026-10-31",
+      "end_date": "2026-11-13",
+      "coins": 100000
+    },
+    {
+      "id": "closed_beta_neon_spins",
+      "title": "Beta Gift: 20 Free Spins on Neon Nights",
+      "body": "20 free spins on Neon Nights at 2,000 coins a spin, just for our beta testers. Neon Nights opens at level 8: claim them then and they'll play as soon as you open the machine.",
+      "start_date": "2026-10-31",
+      "end_date": "2026-11-13",
+      "free_spins": 20,
+      "spins_machine": "neon_nights",
+      "spins_bet": 2000
+    },
+    {
       "id": "update_2026_10_28",
       "title": "Update",
       "body": "Thanks for updating! Enjoy 50k coins and 20 free spins for Neon Nights!",
       "start_date": "2026-10-28",
+      "end_date": "2026-11-10",
       "coins": 50000,
       "free_spins": 20,
       "spins_machine": "neon_nights",
